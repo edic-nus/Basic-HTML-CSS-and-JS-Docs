@@ -1,0 +1,16 @@
+[book]
+authors = ["LazyYuuki"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Basic JavaScript, HTML and CSS: How to build a To Do List from scratch"
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
