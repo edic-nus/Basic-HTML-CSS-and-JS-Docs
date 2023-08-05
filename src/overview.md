@@ -8,8 +8,14 @@ This workshop will be splitted into 4 main section:
 
 Each section will take about 20 to 30 minutes to go through. Here is what the project you build will look like at the end of the workshop: 
 <a href="https://edic-nus.github.io/Basic-HTML-CSS-and-JS/" target="_blank">Demo</a>
+
 and here is the codebase:
 <a href="https://github.com/edic-nus/Basic-HTML-CSS-and-JS" target="_blank">Codebase</a>
+
+and of course the link to this book:
+<a href="https://github.com/edic-nus/Basic-HTML-CSS-and-JS-Docs" target="_blank">Book</a>
+
+*Pshhhh! Don't forget to star us on Github.*
 
 And here is sort of a breakdown of how the chapter connect together (I know it does not really coincide with the chapter number, but you will soon see why):
 ```mermaid

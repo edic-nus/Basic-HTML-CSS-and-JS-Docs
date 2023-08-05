@@ -8,6 +8,8 @@ This is the first technical workshop that I have ever hosted, so if there is any
 - **Github** 
 - **[LinkedIn](https://www.linkedin.com/in/buiquanghuy/)**
 
+or through good old email at: **quanghuy@u.nus.edu**
+
 ## A bit about myself
 
 My web development journey first started when I decided to take on a hackathon challenge three years ago, and the rest was history! Since then, I've been working in the field for more than two years, building some seriously awesome production-grade websites and applications, both on my own and as part of amazing teams!
