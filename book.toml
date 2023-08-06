@@ -1,9 +1,9 @@
 [book]
+title = "Basic JavaScript, HTML and CSS: How to build a To Do List from scratch"
 authors = ["LazyYuuki"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Basic JavaScript, HTML and CSS: How to build a To Do List from scratch"
 
 [preprocessor]
 
@@ -13,4 +13,7 @@ command = "mdbook-mermaid"
 [output]
 
 [output.html]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"
+additional-css = ["modified-mermaid.css"]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]

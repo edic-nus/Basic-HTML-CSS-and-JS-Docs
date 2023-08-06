@@ -35,7 +35,7 @@ The way I want to try to do this is to start with the goal in mind. So by the en
         <h4>Pay Bills Again</h4>
         <input type="text" value="Pay Bills Again">
         <button>Edit</button>
-        <button class="delete">Delete</button>
+        <button>Delete</button>
       </li>
     </ul>
 
