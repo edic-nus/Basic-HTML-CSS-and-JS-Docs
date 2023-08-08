@@ -8,3 +8,8 @@
   - [Defining a basic template](./Chapter-1/defining-a-basic-template.md)
   - [Building the body of our app](./Chapter-1/building-the-body-of-our-app.md)
 - [Chapter 2: CSS](./Chapter-2/css.md)
+  - [Introduction to CSS](./Chapter-2/introduction.md)
+  - [Prepare our HTML](./Chapter-2/prepare-your-html.md)
+  - [Major element styling](./Chapter-2/major-element-styling.md)
+  - [Specific element styling](./Chapter-2/specific-element-styling.md)
+- [Chapter 3: JS]()
