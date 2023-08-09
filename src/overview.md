@@ -1,10 +1,9 @@
 # Overview
 
 This workshop will be splitted into 4 main section:
-- Chapter 1: [HTML](./html.md)
-- Chapter 2: CSS
-- Chapter 3: JavaScript
-- Chapter 4: Integration
+- Chapter 1: [HTML](./Chapter-1/html.md)
+- Chapter 2: [CSS](./Chapter-2/css.md)
+- Chapter 3: [JavaScript](./Chapter-3/javascript.md)
 
 Each section will take about 20 to 30 minutes to go through. Here is what the project you build will look like at the end of the workshop: 
 <a href="https://edic-nus.github.io/Basic-HTML-CSS-and-JS/" target="_blank">Demo</a>

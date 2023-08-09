@@ -12,4 +12,10 @@
   - [Prepare our HTML](./Chapter-2/prepare-your-html.md)
   - [Major element styling](./Chapter-2/major-element-styling.md)
   - [Specific element styling](./Chapter-2/specific-element-styling.md)
-- [Chapter 3: JS]()
+- [Chapter 3: Javascript](./Chapter-3/javascript.md)
+  - [Introduction to JavaScript](./Chapter-3/introduction.md)
+  - [Basic DOM manipulation](./Chapter-3/basic-dom-manipulation.md)
+  - [Create Task Functions](./Chapter-3/create-task-functions.md)
+
+[Recap](./recap.md)
+[Full code view](./full-code-view.md)

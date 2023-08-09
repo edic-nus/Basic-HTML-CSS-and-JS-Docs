@@ -105,7 +105,7 @@ ul {
 }
 ```
 
-As there are many properties in this section, we will be going through life in the workshop. Althoug if you did not manage to participate the workshop, you can slowly type all of this properties in your css and see how it affects your HTML in real time. For more specific detail, please refer to the [refence sheet](https://www.w3schools.com/cssref/index.php).
+As there are many properties in this section, we will be going through live in the workshop. Althoug if you did not manage to participate the workshop, you can slowly type all of this properties in your css and see how it affects your HTML in real time. For more specific detail, please refer to the [refence sheet](https://www.w3schools.com/cssref/index.php).
 
 One thing to notices here is the appearance of `:pseudo-class`. `:focus-visible` and `:hover` are two specific state that the input element can take.
 
